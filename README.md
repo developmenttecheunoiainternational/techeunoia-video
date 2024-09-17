@@ -1,2 +1,2 @@
 # techeunoia-video
-<a href="index.html">Clicl</a>
+<a href="techeunoia.html">Click</a>
